@@ -1,0 +1,68 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SiteWatcher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-06 11:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3\n"
+"X-Domain: sitewatcher"
+
+#: options.php:90
+msgid ""
+"Disable WordPress emails about updates. You can configure notifications in "
+"your SiteWatcher account."
+msgstr ""
+
+#: options.php:72
+msgid "Enable SiteWatcher"
+msgstr ""
+
+#. %1$ breakline tag, %2$ opening link tag, %3$ closing link tag
+#: options.php:66
+#, php-format
+msgid ""
+"Enable SiteWatcher to automatically scan your website after each update."
+"%1$sIf you don&#39;t have a SiteWatcher account yet, click %2$shere%3$s to "
+"create a free account now."
+msgstr ""
+
+#: options.php:99
+msgid "Endpoint URL."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/nusoft/"
+msgstr ""
+
+#. Author of the plugin
+msgid "nusoft"
+msgstr ""
+
+#: options.php:64
+msgid "Options"
+msgstr ""
+
+#: options.php:81
+msgid "Set all plugins &amp; themes to auto-update"
+msgstr ""
+
+#. Name of the plugin
+#: options.php:63 sitewatcher.php:73 sitewatcher.php:74
+msgid "SiteWatcher"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"SiteWatcher will automatically scan your website after each plugin, theme "
+"and WordPress update. Receive immediate notifications whenever SiteWatcher "
+"detects significant changes or concerns on your website."
+msgstr ""
